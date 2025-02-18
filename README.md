@@ -60,8 +60,8 @@
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 ## Join my channel for updates
-<a href="https://whatsapp.com/channel/0029Vajvy2kEwEjwAKP4SI0x" target="_blank">
-    <img alt="whatsapp Group" src="https://img.shields.io/badge/ Whatsapp Support Channel -https://whatsapp.com/channel/0029Vajvy2kEwEjwAKP4SI0x?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://whatsapp.com/channel/0029VablfKe9cDDZcDmkiN2G" target="_blank">
+    <img alt="whatsapp Group" src="/ Whatsapp Support Channel -https://whatsapp.com/channel/0029Vajvy2kEwEjwAKP4SI0x?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
 
@@ -69,7 +69,7 @@
 HOW TO REACH THE OWNER? 
  
    
-   <a href="https://wa.me/254743982206">
+   <a href="https://wa.me/254745931715">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>&nbsp;&nbsp;
    <a
